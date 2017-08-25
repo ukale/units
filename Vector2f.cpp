@@ -218,3 +218,5 @@ float Vector2f::Distance2(Vector2f& to)
     float xx = x-to.x, yy = y-to.y;
     return xx*xx + yy*yy;
 }
+
+////////end////////////
